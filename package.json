@@ -13,6 +13,7 @@
     "@react-three/fiber": "^8.16.8",
     "framer-motion": "^11.3.0",
     "framer-motion-3d": "^11.3.0",
+    "lenis": "^1.1.6",
     "leva": "^0.9.35",
     "next": "14.2.4",
     "react": "^18",
