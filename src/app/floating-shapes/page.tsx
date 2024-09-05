@@ -1,4 +1,4 @@
-import FloatingShapes from "../components/FloatingShapes";
+import FloatingShapes from "../components/floating-shapes/FloatingShapes";
 
 export default function Page() {
     return (
